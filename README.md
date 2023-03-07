@@ -9,7 +9,7 @@ Education
 - Financial University, Moscow, BSc of applied mathematics and computer science, '24 
 
 Work experience
-- British Airways, Data Science intern (web scraping of public reviews, sentiment analysis, review predictivity ML model) - Macrh '23
+- British Airways, Data Science intern (web scraping of public reviews, sentiment analysis, review predictivity ML model) - March '23
 
 Skills:
 - Python (pandas, numpy, matplotlib, dask, nltk, selenium)
