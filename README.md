@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm Aziz. I am data scientist intern. 
-- 🔭 I’m currently working on price aggregator for public marketplaces
 - 🌱 I’m learning Python, SQL
 - 📫 How to reach me: https://t.me/aziz_mdj
 
