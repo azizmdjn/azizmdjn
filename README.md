@@ -19,6 +19,11 @@ Skills:
 - Statistics
 - Product analytics, unit-economics, accounting
 
+Languages:
+- Russian
+- English
+- German
+
 <!--
 **azizMamadjon0v/azizMamadjon0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
