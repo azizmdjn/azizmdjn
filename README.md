@@ -14,6 +14,8 @@ Work experience
 Skills:
 - Python (pandas, numpy, matplotlib, dask, nltk, selenium)
 - SQL (Oracle, Postgres)
+- Microsoft Excel
+- Visualization (Tableau, PowerBI)
 - Statistics
 - Product analytics, unit-economics, accounting
 
