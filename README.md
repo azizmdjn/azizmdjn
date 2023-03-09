@@ -13,8 +13,8 @@ Work experience
 Skills:
 - Data Analysis and ML on Python (pandas, numpy, matplotlib, dask, nltk, selenium, sklearn)
 - SQL (Oracle, Postgres)
-- Microsoft Excel
-- Visualization (Tableau, PowerBI)
+- Analysis on Microsoft Excel
+- Visualization (Tableau, PowerBI, PowerPoint)
 - Statistics
 - Product analytics, unit-economics, accounting
 
