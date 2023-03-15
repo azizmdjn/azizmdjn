@@ -17,8 +17,8 @@ I'm Aziz. I am a data scientist intern. Currently i am living and studying in Mo
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-- Math (calculus, linear algebra, statistics) 📊
-- Economics/finance (unit-economics, financial modelling, accounting) 💲
+- Math (calculus, linear algebra, statistics) 
+- Economics/finance (unit-economics, financial modelling, accounting) 
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
