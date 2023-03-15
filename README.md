@@ -1,4 +1,4 @@
-##  👨‍💻 Hello there
+##  Hello there
 
 I'm Aziz. I am a data scientist intern. Currently i am living and studying in Moscow, Russia.
 
