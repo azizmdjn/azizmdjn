@@ -26,7 +26,7 @@ I'm Aziz. I am a data scientist intern. Currently i am living and studying in Mo
 - Financial University, Moscow, BSc of applied mathematics and computer science, '24
 
 ## 💼 Work Experience
-- British Airways, Data Science virtual intern (web scraping of public reviews, sentiment analysis, ML prdeicitbity model of customer buying behavior) - March '23
+- British Airways, Data Science virtual intern (web scraping of public reviews, sentiment analysis, ML predictivity model of customer buying behavior) - March '23
 
 
 ## 📫 Reach me on
