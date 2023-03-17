@@ -28,7 +28,9 @@ I'm Aziz. I am a data scientist intern. Currently i am living and studying in Mo
 ## 💼 Work Experience
 - British Airways, Data Science virtual intern (web scraping of public reviews, sentiment analysis, ML predictivity model of customer buying behavior) - March '23
 
-
+## 🖥️ Currently working on
+- Research paper on Creating databse of companies' economic activity for ML purposes.
+- 
 ## 📫 Reach me on
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aziz_mdj)
 
