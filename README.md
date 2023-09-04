@@ -30,11 +30,6 @@ I'm Aziz. I am a data scientist intern. Currently i am living and studying in Mo
 ## 🖥️ Currently working on
 - Research paper on Creating databse of companies' economic activity for ML purposes.
 
-## 📫 Reach me on
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/azizmdjn)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/azizmdjn)
-
-
 ## Languages:
 - Russian C1
 - English B2
