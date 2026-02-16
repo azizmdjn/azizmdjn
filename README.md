@@ -1,6 +1,6 @@
 ##  Hello there
 
-I'm Aziz. I am a data scientist intern. Currently i am living and studying in Moscow, Russia.
+I'm Aziz. I am a data scientist.
 
 
 ## 🔧 Skills
@@ -20,12 +20,6 @@ I'm Aziz. I am a data scientist intern. Currently i am living and studying in Mo
 - Economics/finance (unit-economics, financial modelling, accounting) 
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 🎓  Education
-- Financial University, Moscow, BSc of applied mathematics and computer science, '24
-
-## 💼 Work Experience
-- British Airways, Data Science virtual intern (web scraping of public reviews, sentiment analysis, ML predictivity model of customer buying behavior) - March '23
 
 ## Languages:
 - Russian C1
